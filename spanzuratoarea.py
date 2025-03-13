@@ -1,5 +1,5 @@
 # Reguli:
-# Prima si ultima litera se afiseazag
+# Prima si ultima litera se afiseaza
 # Daca litera de inceput sau de sfarsit se gaseste in interiorul cuvantului, aceasta se va afisa.
 # Jucatorul are nevoie de 7 incercari
 word = 'teleenciclopedie'
