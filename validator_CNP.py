@@ -66,13 +66,3 @@ while True:
     din_nou = input('Doriti sa verificati alt CNP? Da / Nu: ').lower()
     if din_nou != 'da':
         break
-
-
-""" Am incercat sa introduc CNP-ul meu dar nu imi spune nici daca este valid nici invalid
-Aici as fi vrut si o descriere a cnp-ului daca este valid: sex - masculin, nascut la data de...., judet ...
-judetele nu sunt doar pana la 46 mai exista si un 51, 52 din cate retin
-ca sa spui de unde este persoana poti folosi o lista de tupluri ptr judet ex.: lista_judet = [('01', 'Alba'), 
-('02', 'Arad'), ....]
-Nu notez acum. Incearca sa mai rafinezi si ma mai uit odata peste el
-
-Altceva! bravo!"""
